@@ -1,0 +1,129 @@
+﻿@font-face {
+    font-family: "_SegoeYaHei";
+    src: local("Segoe UI");
+}
+
+@font-face {
+    font-family: "_SegoeYaHei";
+    src: local("Microsoft YaHei");
+    unicode-range: U+2E80-9FFF,U+FF00-FFEF;
+}
+
+@font-face {
+    font-family: "_SegoeYaHei";
+    src: local("Meiryo");
+    unicode-range: U+3040-30FF,U+FF61-FF9F;
+}
+
+@font-face {
+    font-family: "_SegoeYaHei";
+    font-weight: 700;
+    src: local("Segoe UI");
+}
+
+@font-face {
+    font-family: "_SegoeYaHei";
+    font-weight: 700;
+    src: local("Segoe UI Bold");
+}
+
+@font-face {
+    font-family: "_SegoeYaHei";
+    font-weight: 700;
+    src: local("Microsoft YaHei");
+    unicode-range: U+2E80-9FFF,U+FF00-FFEF;
+}
+
+@font-face {
+    font-family: "_SegoeYaHei";
+    font-weight: 700;
+    src: local("Microsoft YaHei Bold");
+    unicode-range: U+2E80-9FFF,U+FF00-FFEF;
+}
+
+@font-face {
+    font-family: "_SegoeYaHei";
+    font-weight: 700;
+    src: local("Meiryo");
+    unicode-range: U+3040-30FF,U+FF61-FF9F;
+}
+
+@font-face {
+    font-family: "_SegoeYaHei";
+    font-weight: 700;
+    src: local("Meiryo Bold");
+    unicode-range: U+3040-30FF,U+FF61-FF9F;
+}
+
+@font-face {
+    font-family: "_SegoeYaHei";
+    font-style: italic;
+    src: local("Segoe UI");
+}
+
+@font-face {
+    font-family: "_SegoeYaHei";
+    font-style: italic;
+    src: local("Segoe UI Italic");
+}
+
+@font-face {
+    font-family: "_SegoeYaHei";
+    font-style: italic;
+    src: local("Microsoft YaHei");
+    unicode-range: U+2E80-9FFF,U+FF00-FFEF;
+}
+
+@font-face {
+    font-family: "_SegoeYaHei";
+    font-style: italic;
+    src: local("Meiryo");
+    unicode-range: U+3040-30FF,U+FF61-FF9F;
+}
+
+@font-face {
+    font-family: "_SegoeYaHei";
+    font-weight: 700;
+    font-style: italic;
+    src: local("Segoe UI");
+}
+
+@font-face {
+    font-family: "_SegoeYaHei";
+    font-weight: 700;
+    font-style: italic;
+    src: local("Segoe UI Bold Italic");
+}
+
+@font-face {
+    font-family: "_SegoeYaHei";
+    font-weight: 700;
+    font-style: italic;
+    src: local("Microsoft YaHei");
+    unicode-range: U+2E80-9FFF,U+FF00-FFEF;
+}
+
+@font-face {
+    font-family: "_SegoeYaHei";
+    font-weight: 700;
+    font-style: italic;
+    src: local("Microsoft YaHei Bold");
+    unicode-range: U+2E80-9FFF,U+FF00-FFEF;
+}
+
+@font-face {
+    font-family: "_SegoeYaHei";
+    font-weight: 700;
+    font-style: italic;
+    src: local("Meiryo");
+    unicode-range: U+3040-30FF,U+FF61-FF9F;
+}
+
+@font-face {
+    font-family: "_SegoeYaHei";
+    font-weight: 700;
+    font-style: italic;
+    src: local("Meiryo Bold");
+    unicode-range: U+3040-30FF,U+FF61-FF9F;
+}
+/* Other glyphs to be complemented. */
